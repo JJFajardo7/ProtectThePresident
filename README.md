@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JTKuXjOX)
+This game was developed as a class project to showcase some of my ability to program in Unreal Engine. It is a funny/odd game with no serious intent. 
